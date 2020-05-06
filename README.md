@@ -1,5 +1,12 @@
 # python-novice-inflammation-colab
 
+**DISCLAIMER: All content has been taken from swcarpentry.github.io (© Software Carpentry) and transcribed to the Google colab setting for practice using that interface. Please see http://software-carpentry.org/ for original content. Only minor changes were made, if any, for clarity in the Google colab format (without the same color coding as the original).
+
+
+
+
+
+
 preamble for every episode that uses the lesson data
 ```
 # setup
