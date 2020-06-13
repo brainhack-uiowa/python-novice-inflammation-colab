@@ -17,6 +17,15 @@ preamble for every episode that uses the lesson data
 !unzip -jn python-novice-inflammation-data.zip
 !unzip -jn python-novice-inflammation-code.zip
 ```
+
+preamble for the gapminder dataset
+```
+# setup
+!wget http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip
+unzip -jn python-novice-gapminder-data.zip
+```
+
 [Example of copying/pasting software carpentry lesson](https://youtu.be/HC76t3P2s9A)
 (beginning (~2 minutes) and end (~2 minutes) show to set up and save with the middle being all the
 copy/pasting/formatting.
+
