@@ -22,7 +22,7 @@ preamble for the gapminder dataset
 ```
 # setup
 !wget http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip
-unzip -jn python-novice-gapminder-data.zip
+!unzip -n python-novice-gapminder-data.zip
 ```
 
 [Example of copying/pasting software carpentry lesson](https://youtu.be/HC76t3P2s9A)
